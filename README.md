@@ -37,7 +37,7 @@
 
 9) Choose a chain or Network ID - I chose 334. 
 
-![chainiD](Images/chainID.png)
+![chainiD](Images/chainiD.png)
 
 10) After you key in your Chain ID - to export, choose the "Manage existing genesis" by typing 2
 
